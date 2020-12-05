@@ -10,6 +10,8 @@ Added Alt Attributes to all images consistent with content and relevant SEO keyw
 
 Added Title description
 
+Added Comments to all HTML elements
+
 # Additional Changes
 
 Consolidated CSS Font-Family to contain only one font
